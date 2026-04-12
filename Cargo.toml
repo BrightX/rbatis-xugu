@@ -1,6 +1,6 @@
 [package]
 name = "rbatis-xugu"
-version = "4.6.0"
+version = "4.8.0"
 edition = "2021"
 repository = "https://github.com/BrightX/rbatis-xugu"
 description = "The Rust SQL Toolkit and ORM Library. An async, pure Rust SQL crate featuring compile-time Dynamic SQL for Xugu"
@@ -17,5 +17,5 @@ include = [
 ]
 
 [dependencies]
-rbs = "4.6"
-rbatis = "4.6"
+rbs = "4"
+rbatis = "4.8"
